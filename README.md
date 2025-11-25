@@ -37,12 +37,6 @@ My goal is to grow into a well-rounded engineer who can design, build, and deliv
  </p>
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohanariprasath&show_icons=true&theme=tokyonight" height="160px"/>
-</p>
-
 ### 🧩 My GitHub Contribution Graph
 
 <p align="center">
