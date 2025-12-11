@@ -114,7 +114,7 @@ My goal is to grow into a well-rounded engineer who can design, build, and deliv
   Coding is not about who you are — it’s about what you can create.
 </p>
 
-
+![Header](./github-header-banner.png)
 
 
 
