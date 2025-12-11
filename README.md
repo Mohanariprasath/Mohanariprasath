@@ -42,6 +42,8 @@ My goal is to grow into a well-rounded engineer who can design, build, and deliv
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
  </p>
+
+
 </p>
 
 <h2>My Projects</h2>
@@ -106,7 +108,13 @@ My goal is to grow into a well-rounded engineer who can design, build, and deliv
   </div>
 </div>
 
-![Header](./)
+ 
+<h2>My Approach</h2>
+<p>
+  Coding is not about who you are — it’s about what you can create.
+</p>
+
+
 
 
 
