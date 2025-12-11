@@ -6,7 +6,7 @@
   <a href="https://codeforces.com/profile/mohanariprasath" target="_blank">
   <img src="https://img.shields.io/badge/CODEFORCES-F59E0B?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1E293B" alt="Codeforces"/>
 </a>
-   <a href="https://atcoder.jp/users/Siby_369" target="_blank">
+   <a href="https://atcoder.jp/users/Mohanariprasath" target="_blank">
   <img src="https://img.shields.io/badge/AtCoder-00AA00?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder Rating 1229"/>
 </a>
   <a href="mailto:mohanariprasath@gmail.com" target="_blank">
