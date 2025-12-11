@@ -1,3 +1,4 @@
+![Header](./github-header-banner.png)
 <h1 align="center">👋 Hey, I'm <strong>Deno Roy!</strong> ⚔️✨</h1>
 <p align="center">
   <em>Vibing to epic beats 🎧 | Coding trading bots 🤖📈 | Charting markets like a shinobi 🥷</em>
