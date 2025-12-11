@@ -50,68 +50,63 @@ My goal is to grow into a well-rounded engineer who can design, build, and deliv
 </a>
 <p>Built an AI-assisted cross-platform finance tracker using Flutter, SQLite, and Provider, featuring smart transaction/category predictions, budgets, CSV export, interactive analytics, and a clean, optimized architecture (<100ms queries) that reduced manual entry by ~90% and is scalable for cloud sync or ML upgrades.</p>
 <a href="YOUR_PROJECT_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/BRAIN%20TUMOR%20CLASSIFICATION-FF4B4B?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1E293B" alt="Brain Tumor Classification"/>
+  <img src="https://img.shields.io/badge/BRAIN%20TUMOR%20CLASSIFICATION%20using Crad Cam-FF4B4B?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1E293B" alt="Brain Tumor Classification using Crad Cam"/>
 </a>
-
-
-🔥 **⚔️🌸 Ultimate Flow State 🌸⚔️**  
-<p></p>
-## 🧰 **Tech Stack & Arsenal**
-
-My toolkit for building bots, scanners, and AI-powered trading systems.
-
-**Languages & Core Tools**
-> Python | JavaScript | Node.js | TypeScript | HTML | CSS | Shell
-
-**Frameworks & Libraries**
-> FastAPI | Flask | TensorFlow | Pandas | NumPy | Matplotlib | PineScript | Backtrader
-
-**Platforms & Tools**
-> MongoDB | Git | GitHub Actions | TradingView | Telegram Bots
-
----
-
-## 📊 **GitHub Stats & Grind**
-
+<p>Developed a deep-learning MRI brain tumor classifier (Glioma, Meningioma, Pituitary, No Tumor) using TensorFlow/Keras with advanced preprocessing, augmentation, Grad-CAM explainability, and optimized CNN inference (<0.1s) achieving 85–92% accuracy.</p>
+<h2> My Contribution Graph and Status</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Denoroy737&show_icons=true&theme=radical" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denoroy737&layout=compact&theme=radical" height="160px"/>
+  <img src="https://ssr-contributions-svg.vercel.app/_/Mohanariprasath?chart=3dbar&format=svg" alt="Mohanariprasath's GitHub Contributions" />
+  <p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Mohanariprasath&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="160" />
 </p>
 
----
 
-## 🧠 **Epic Projects & Quests**
-
-🔥 **Crypto Scanner Bot** — Real-time market scanner with Telegram alerts, ninja-fast.  
-📈 **TradingView RSI + Trend Strategy** — PineScript strategy with SL/TP and precision entries.  
-🧠 **AI Chart Pattern Shinobi** — TensorFlow-powered pattern recognition for trading edges.  
-🎯 **Swing Trading Auto Scanner** — High-probability setup screener.  
-📰 **Desi Social Media Bot** — Indian flair posting bot, boosted with AI + MongoDB.  
-💹 **Backtrader AI Framework** — MongoDB-backed trading system with AI-driven strategy insights.
-
-*Level up with my repos!*
-
----
-
-## 🚀 **My Mission & Endgame**
-
-🔹 **Grind Now:** Master AI x Finance for next-gen trading systems.  
-🔹 **Ultimate Quest:** Build an AI-powered *“Aladdin”* to automate trading mastery.  
-🔹 **Side Quests:** Sharpen trading edges, conquer CS, and explore indie hacking.  
-
----
-
-## 🤝 **Let’s Team Up!**
-
-Ready to vibe on code, charts, or anime?  
-Hit me up anytime! ⚡
-
+<h2>Technical Skills</h2>
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge"/></a>
-  <a href="https://twitter.com/denoroy737"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge"/></a>
-  <a href="https://t.me/Denoroy737"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&style=for-the-badge"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
 </p>
 
----
+<h2>Professional Skills</h2>
+<div style="display:flex;flex-wrap:wrap;gap:8px;font-family:Inter,Arial,sans-serif;">
+  <div style="display:flex;gap:8px;align-items:center;padding:6px 10px;border-radius:20px;background:#0f1720;color:#dbeafe;">
+    <strong style="color:#9ad0ff;margin-right:6px;">➤</strong> Teamwork &amp; Collaboration
+  </div>
+  <div style="display:flex;gap:8px;align-items:center;padding:6px 10px;border-radius:20px;background:#0f1720;color:#dbeafe;">
+    <strong style="color:#9ad0ff;margin-right:6px;">➤</strong> Professionalism
+  </div>
+  <div style="display:flex;gap:8px;align-items:center;padding:6px 10px;border-radius:20px;background:#0f1720;color:#dbeafe;">
+    <strong style="color:#9ad0ff;margin-right:6px;">➤</strong> Decision Making
+  </div>
+  <div style="display:flex;gap:8px;align-items:center;padding:6px 10px;border-radius:20px;background:#0f1720;color:#dbeafe;">
+    <strong style="color:#9ad0ff;margin-right:6px;">➤</strong> Adaptability
+  </div>
+  <div style="display:flex;gap:8px;align-items:center;padding:6px 10px;border-radius:20px;background:#0f1720;color:#dbeafe;">
+    <strong style="color:#9ad0ff;margin-right:6px;">➤</strong> Work Ethic &amp; Discipline
+  </div>
+</div>
 
-### 🌟 Thanks for visiting — may your code compile and your trades stay green! 🌟
+
+
+
+
