@@ -1,14 +1,24 @@
 ![Header](./github-header-banner.png)
 <p align="left">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://www.codechef.com/users/mohancse31" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=3d2a21" alt="CodeChef 3★"/>
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=3d2a21" alt="CodeChef"/>
   </a>
+  <a href="https://codeforces.com/profile/mohanariprasath" target="_blank">
+  <img src="https://img.shields.io/badge/CODEFORCES-F59E0B?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1E293B" alt="Codeforces"/>
+</a>
+   <a href="https://atcoder.jp/users/Siby_369" target="_blank">
+  <img src="https://img.shields.io/badge/AtCoder-00AA00?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder Rating 1229"/>
+</a>
   <a href="mailto:mohanariprasath@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://codolio.com/profile/siby369" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-FF6F00?style=for-the-badge&logo=codio&logoColor=white" alt="Codolio"/>
+  </a>
+  
 </p>
 <h1>About me</h1>
 <p align="left">
