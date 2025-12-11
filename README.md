@@ -106,6 +106,7 @@ My goal is to grow into a well-rounded engineer who can design, build, and deliv
   </div>
 </div>
 
+![Header](./)
 
 
 
