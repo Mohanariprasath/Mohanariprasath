@@ -59,6 +59,9 @@ My goal is to grow into a well-rounded engineer who can design, build, and deliv
 </p>
 
 <h2>My Projects</h2>
+<a href="https://github.com/Mohanariprasath/FeedTrack.git" target="_blank">
+  <img src="https://img.shields.io/badge/FEEDTRACK-FF6F00?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B" alt="FeedTrack" />
+</a>
 <a href="https://github.com/Mohanariprasath/Expence-Tracker.git" target="_blank">
   <img src="https://img.shields.io/badge/FINANCE%20TRACKER-F59E0B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1E293B" alt="Finance Tracker"/>
 </a>
