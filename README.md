@@ -59,13 +59,14 @@ My goal is to grow into a well-rounded engineer who can design, build, and deliv
 </p>
 
 <h2>My Projects</h2>
-<a href="https://github.com/Mohanariprasath/FeedTrack.git" target="_blank">
-  <img src="https://img.shields.io/badge/FEEDTRACK-FF6F00?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B" alt="FeedTrack" />
+<a href="https://github.com/Mohanariprasath/feedtrack.git" target="_blank">
+  <img src="https://img.shields.io/badge/FEEDTRACK-FF6F00?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1E293B" alt="FeedTrack" />
 </a>
+<p>Built an AI-powered student feedback analytics platform using React, Node.js, MongoDB, and Google Gemini API key, featuring real-time sentiment categorization, smart alerts for critical issues, automated PDF reporting, interactive dashboards, and a clean, serverless-ready architecture that instantly translates unstructured text into actionable insights and is scalable for broader institutional deployment.</p>
 <a href="https://github.com/Mohanariprasath/Expence-Tracker.git" target="_blank">
   <img src="https://img.shields.io/badge/FINANCE%20TRACKER-F59E0B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1E293B" alt="Finance Tracker"/>
 </a>
-<p>Built an AI-assisted cross-platform finance tracker using Flutter, SQLite, and Provider, featuring smart transaction/category predictions, budgets, CSV export, interactive analytics, and a clean, optimized architecture (<100ms queries) that reduced manual entry by ~90% and is scalable for cloud sync or ML upgrades.</p>
+<p>Built an cross-platform finance tracker using Flutter, SQLite, and Provider, featuring smart transaction/category predictions, budgets, CSV export, interactive analytics, and a clean, optimized architecture (<100ms queries) that reduced manual entry by ~90% and is scalable for cloud sync or ML upgrades.</p>
 <a href="https://github.com/Mohanariprasath/BrainTumor-Classification.git" target="_blank">
   <img src="https://img.shields.io/badge/BRAIN%20TUMOR%20CLASSIFICATION%20using Crad Cam-FF4B4B?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1E293B" alt="Brain Tumor Classification using Crad Cam"/>
 </a>
