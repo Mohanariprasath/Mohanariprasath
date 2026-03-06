@@ -47,7 +47,7 @@ My goal is to grow into a well-rounded engineer who can design, build, and deliv
 </p>
 
 <h2>My Projects</h2>
-<a href="YOUR_PROJECT_LINK_HERE" target="_blank">
+<a href="https://github.com/Mohanariprasath/Expence-Tracker.git" target="_blank">
   <img src="https://img.shields.io/badge/FINANCE%20TRACKER-F59E0B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1E293B" alt="Finance Tracker"/>
 </a>
 <p>Built an AI-assisted cross-platform finance tracker using Flutter, SQLite, and Provider, featuring smart transaction/category predictions, budgets, CSV export, interactive analytics, and a clean, optimized architecture (<100ms queries) that reduced manual entry by ~90% and is scalable for cloud sync or ML upgrades.</p>
